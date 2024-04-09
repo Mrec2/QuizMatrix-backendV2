@@ -1,18 +1,18 @@
 # QuizMatrix-backendV2
 
-# Project on Hold 😕
+## Issue Resolved! 🎉
 
 Hey everyone,
 
-Just a heads up: our project is currently on hold. Why, you ask? Well, seems like the Tomcat plugin we're counting on isn't playing nice with the latest Jakarta EE specs.
+Great news! We've managed to solve the problem, and now the Maven version of the project is up and running smoothly.
 
-The deal is, the current plugin versions are a no-go for handling these specs, and it's causing us a bit of a headache.
+As previously mentioned, we were facing compatibility issues with the Tomcat plugin and the latest Jakarta EE specs. However, after some thorough troubleshooting, we've found a solution that works.
 
-We're in full troubleshooting mode, exploring different options. One of the ideas on the table is switching over to Spring Boot, which has a rep for playing nice with Jakarta EE specs.
+We considered various options, and one of them involved transitioning to Spring Boot, known for its seamless integration with Jakarta EE specs. However, we were able to address the issue without resorting to this change.
 
-Thanks for hanging tight and bearing with us while we sort this out. We'll keep you posted on our next moves.
+We appreciate your patience and support throughout this process. Your understanding has been invaluable as we navigated through these challenges.
 
-Cheers for being part of this journey!
+Thank you for being a part of this journey!
 
-Best,
+Best,  
 [Juan Mario](https://github.com/Mrec2)
