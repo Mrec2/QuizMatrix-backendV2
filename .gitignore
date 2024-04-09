@@ -18,3 +18,18 @@ target/
 # OS files #
 .DS_Store
 Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+
+# Archivos de configuración específicos de IntelliJ IDEA
+*.iml
+*.iws
+*.ipr
+
+# Directorio de salida de compilación
+out/
+
+# Directorio de archivos generados
+target/
+
