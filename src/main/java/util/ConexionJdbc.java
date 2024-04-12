@@ -6,10 +6,13 @@ import java.sql.SQLException;
 
 public class ConexionJdbc {
 
-    private static final String URL = "jdbc:mysql://127.0.0.1:3306/quizmatrix";
+//    private static final String URL = "jdbc:mysql://127.0.0.1:3306/quizmatrix";
+//    private static final String USER = "root";
+//    private static final String PASSWORD = "admin";
+    private static final String URL = "jdbc:mysql://database-quizmatrix.chi8wsm2mbon.eu-north-1.rds.amazonaws.com:3306/quizmatrix";
     private static final String USER = "root";
-    private static final String PASSWORD = "admin";
-    private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver"; // Ajusta esto según tu gestor de base de datos
+    private static final String PASSWORD = "Espana1234";
+    private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
 
     static {
         try {

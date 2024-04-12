@@ -11,9 +11,9 @@ target/
 *.rar
 
 # Eclipse files #
-.classpath
-.project
-.settings/
+#.classpath
+#.project
+#.settings/
 
 # OS files #
 .DS_Store
@@ -23,9 +23,9 @@ Thumbs.db
 .idea/
 
 # Archivos de configuración específicos de IntelliJ IDEA
-*.iml
-*.iws
-*.ipr
+#*.iml
+#*.iws
+#*.ipr
 
 # Directorio de salida de compilación
 out/
