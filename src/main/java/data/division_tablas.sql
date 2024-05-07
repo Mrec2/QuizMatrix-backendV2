@@ -9,7 +9,7 @@ BEGIN
     DECLARE id INT;
     DECLARE categoria VARCHAR(255);
     DECLARE pregunta VARCHAR(255);
-	DECLARE opcion1 VARCHAR(255);
+    DECLARE opcion1 VARCHAR(255);
     DECLARE opcion2 VARCHAR(255);
     DECLARE opcion3 VARCHAR(255);
     DECLARE opcion4 VARCHAR(255);
